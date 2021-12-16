@@ -1,0 +1,53 @@
+
+#btn1, #btn2, #btn3 {
+    
+    margin:5px;
+}
+h1 {
+    text-align: center;
+    padding-top: 10px;
+}
+#footer1 {
+    margin-top: 140px;
+}
+
+#button1, #button2 {
+    margin: 50px;
+
+}
+#p3column {
+    margin-top: 30px;
+}
+.col-4 {
+    border-bottom: black;
+    border-top: black;
+    border-left: black;
+    border-right: black;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.card-img-top, .card-img-bottom {
+    width: 400px;
+    height: 300px;
+}
+.card-img-top {
+    margin-top: 20px;
+}
+.card-img-bottom {
+    margin-bottom: 20px;
+}
+#pic1 {
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.card {
+    margin-bottom: 15px;
+}
